@@ -1,0 +1,47 @@
+#id,apk_url,apk_md5,tips,type,isSplit,lib_url,lib_md5,isPlugin
+
+### Beta-List ###
+
+
+
+#Plugin9307 tools
+9307,http://data.fa-fa.cc:5266/d/car/files/automap/7.1.5.601967/Auto_V7.1.5.601967_Plugin.apk,0459bb972a544754f14c81de0e3753b9,高德地图v7.1.5.601967_优化开机自启方式、桌面小组件、字体模糊等问题、修复桌面组件阴影问题、导航途中被反复切换前台以及状态栏等问题,9,1,http://data.fa-fa.cc:5266/d/car/files/automap/7.1.5.601967/7.1.5_lib.zip,42879866b68d130a8505a4abe3d4826c,1
+
+9306,http://data.fa-fa.cc:5266/d/car/files/automap/7.0.5.600769/Auto_V7.0.5.600769_Elevation.apk,0738fcd62253670f1cb8c375c9e7b63b,高德地图v7.0.5.600769_官方提示升级包车机适配版、仰角修复,0
+
+#Plugin9306,http://data.fa-fa.cc:5266/d/car/files/automap/7.0.5.600769/Auto_V7.0.5.600769_Elevation_Self_Start.apk,e94900e7c1dce16f117b51fc90b9de1f,高德地图v7.0.5.600769_官方提示升级包车机适配版、仰角修复、后台自启,9,0,0,0,1
+#93061,http://data.fa-fa.cc:5266/d/car/files/automap/7.0.5.600769/Auto_V7.0.5.600769_DONT_UPDATE.apk,bb22beaf4bbec1978639a1b4bf636e91,高德地图v7.0.5.600769_修复后台自启、去除更新。,9,0,0,0,1
+
+9305,http://data.fa-fa.cc:5266/d/car/files/automap/6.5.5.600492/Auto_V6.5.5.600492_end_TeamVoice_Elevation.apk,925087e204704c3adf4ca6e40f0c2200,高德地图v6.5.5.600492_组队语音、仰角修复,0
+
+#Plugin9305,http://data.fa-fa.cc:5266/d/car/files/automap/6.5.5.600492/Auto_V6.5.5.600492_end_TeamVoice_Elevation_Self_Start.apk,98a480bb63c97e8aeef9f824bbc8316d,高德地图v6.5.5.600492_组队语音、仰角修复、后台自启,9,0,0,0,1
+#93051,http://data.fa-fa.cc:5266/d/car/files/automap/6.5.5.600492/Auto_V6.5.5.600492_end_DONT_UPDATE.apk,e6cade4da0b52bd8cb521a7a71f292ce,高德地图v6.5.5.600492_修复后台自启、去除更新,9,0,0,0,1
+
+9304,http://data.fa-fa.cc:5266/d/car/files/automap/6.5.5.600492/Auto_V6.5.5.600492_end.apk,5610e3b0b5c02c71ef137260f2af2e3f,高德地图v6.5.5.600492_终结版，五指双击可自定义开关状态栏侧边栏自启时间等，适配原车语音，仪表盘地图，HUD，方向坡度等功能,0
+
+
+### AutoMap7.5.0 ###
+
+7500,http://data.fa-fa.cc:5266/d/car/files/automap/stable/7.5.0.600082/Auto_V7.5.0.600082_release_signed.apk,dad788d2b307e203a8c6cde2fe68e889,高德地图v7.5.0.600082_官方正式版,0
+7501,http://data.fa-fa.cc:5266/d/car/files/automap/stable/7.5.0.600082/Auto_V7.5.0.600082_left_sidebar_no_logo.apk,00affa0470f69c24e77f5d4d73fb08e9,高德地图v7.5.0.600082_带左侧快捷键,0
+
+
+### Test-List ###
+
+
+### Old-list ###
+
+9208,http://data.fa-fa.cc:5266/d/car/files/automap/beta/6.2.5.600326/Auto_V6.2.5.600326_no_statusbar_gesture_9011.apk,8088fa5d028ca90468170c599f9e4bf6,高德地图v6.2.5.600326_无状态栏界面不下沉+手势,0
+9207,http://data.fa-fa.cc:5266/d/car/files/automap/beta/6.2.5.600326/Auto_V6.2.5.600326_statusbar_gesture_9011.apk,1fec765cae260e8de671491f49198b6a,高德地图v6.2.5.600326_有状态栏界面下沉+手势,0
+9206,http://data.fa-fa.cc:5266/d/car/files/automap/beta/6.2.5.600326/Auto_V6.2.5.600326_fullscreen_9011.apk,b13d5c432e6ee46eae04db2101f81027,高德地图v6.2.5.600326_全屏界面,0
+9108,http://data.fa-fa.cc:5266/d/car/files/automap/beta/6.5.0.601571.beta/Auto_V6.5.0.601571_HUD_9011.apk,d8fdc4b2e27317ac5213a176e1f8b22f,高德地图v6.5.0.601571_优化HUD箭头,0
+
+
+### AutoMap Backup ###
+
+0,http://data.fa-fa.cc:5266/d/car/files/automap/%E5%8E%9F%E8%BD%A6%E5%A4%87%E4%BB%BD/H6/automap.zip,6b77b446d5ce82edfe0b7813b721047d,回退H6/大狗原车高德地图v4.6.7.607975版本,1
+300,http://data.fa-fa.cc:5266/d/car/files/automap/%E5%8E%9F%E8%BD%A6%E5%A4%87%E4%BB%BD/Tank/automap.zip,d4eeb264afaeb9a99b825fb8b376df83,回退300原车高德地图v4.6.7.609858版本,1
+
+
+### 7.1.5 Plugin ###
+AutoHelper,http://data.fa-fa.cc:5266/d/car/files/automap/7.1.5.601967/Plugin.apk,efc63d335136ffc8c7cdbe31bd3cfcf0
